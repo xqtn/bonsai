@@ -1,3 +1,3 @@
 # Bonsai
-Yet Another Minecraft 1.21.5 Utilty Mod.
+Yet Another Open-Source Minecraft 1.21.5 Utilty Mod.
 WIP...
